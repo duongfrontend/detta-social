@@ -73,7 +73,7 @@ const SigninForm = () => {
 
         <h2 className="h3-bold md:h2-bold pt-3 sm:pt-2">Đăng Nhập</h2>
         <p className="text-light-3 small-medium md:base-regular mt-2">
-          Chào mừng bạn đến với Detta - App.
+          Chào mừng bạn đến với Detta - Social.
         </p>
         <form
           onSubmit={form.handleSubmit(handleSignin)}
