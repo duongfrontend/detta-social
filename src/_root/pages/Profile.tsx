@@ -93,7 +93,7 @@ const Profile = () => {
             </div>
             <div className={`${user.id === id && "hidden"}`}>
               <Button type="button" className="shad-button_primary px-8">
-                Follow
+                Theo dõi
               </Button>
             </div>
           </div>
