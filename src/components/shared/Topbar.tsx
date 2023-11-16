@@ -6,9 +6,7 @@ import { bottombarLinks } from "@/constants";
 import { Button } from "../ui/button";
 import { useUserContext } from "@/context/AuthContext";
 import { useSignOutAccount } from "@/lib/react-query/queries";
-import { CgLogOut } from "react-icons/cg";
 import { CgMenuLeftAlt } from "react-icons/cg";
-import { CiMenuFries } from "react-icons/ci";
 import { IoMdClose } from "react-icons/io";
 
 const Topbar = () => {
